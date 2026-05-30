@@ -12,7 +12,7 @@ A standalone, single-file HTML markdown reader. Open a folder and browse its mar
 - **Diagrams** / 图表 — Mermaid flowcharts, sequence diagrams, etc. / 流程图、时序图等
 - **Dark / light themes** / 深色/浅色主题 — toggle with one click / 一键切换
 - **Resizable sidebar** / 侧边栏可调宽 — drag to resize the file tree panel / 拖拽调整宽度
-- **Persistent session** / 会话持久化 — reopens your last folder on restart (IndexedDB) / 下次打开自动恢复上次浏览的文件夹
+- **Folder memory** / 记住上次文件夹 — reopens your last folder on restart (IndexedDB) / 下次打开自动恢复上次浏览的文件夹
 - **Fast search** / 快速搜索 — filter files by name in the sidebar / 按文件名过滤
 
 ## Usage / 使用
